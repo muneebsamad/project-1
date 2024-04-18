@@ -5,6 +5,8 @@ Project members: Roshni, Muneeb, Ria, Mahalel, Ricardo
 The topic selected by our Project team 8 is surrounding fraudulent e-commerce transactions
 With two data sets merged, we filtered out the legitimate transactions to analyze the fraud transactions among a vast variety of categories: Age, transaction amount, payment method etc.
 
+dataset link https://drive.google.com/drive/folders/1ccKb0ESci_SzjoR8hq1Q32lmTw7k3iO1?usp=sharing
+
 We have provided 8 visualizations which include:
 
 Number of customers by product category and age group
