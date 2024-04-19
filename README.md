@@ -6,6 +6,7 @@ The topic selected by our Project team 8 is surrounding fraudulent e-commerce tr
 With two data sets merged, we filtered out the legitimate transactions to analyze the fraud transactions among a vast variety of categories: Age, transaction amount, payment method etc.
 
 dataset link https://drive.google.com/drive/folders/1ccKb0ESci_SzjoR8hq1Q32lmTw7k3iO1?usp=sharing
+presentation link https://docs.google.com/presentation/d/1t24rhCi3UyfUCSmVbIffjm-Nd1amloydEnNq3K1J7rM/edit?usp=sharing
 
 We have provided 8 visualizations which include:
 
